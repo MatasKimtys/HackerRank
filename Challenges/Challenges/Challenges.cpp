@@ -3,9 +3,17 @@
 
 #include <iostream>
 #include <C:\Users\matas\Desktop\StringStreamer.cpp>
+vector<int> parseInts(string);
+
 int main()
 {
-    std::cout << "Hello, this is where I will store my challenge solutions from HackerRank!\n";
+    string str;
+    cin >> str;
+    vector<int> integers = parseInts(str);
+    for (int i = 0; i < integers.size(); i++) {
+        cout << integers[i] << "\n";
+    }
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

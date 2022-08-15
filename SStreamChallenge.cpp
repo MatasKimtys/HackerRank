@@ -1,3 +1,16 @@
+/*
+Author: Matas Kimtys
+
+Sample Input
+23,4,56
+
+Sample Output
+23
+4
+56
+*/
+
+
 #include <sstream>
 #include <vector>
 #include <iostream>

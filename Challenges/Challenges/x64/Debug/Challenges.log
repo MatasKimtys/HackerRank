@@ -1,3 +1,0 @@
-﻿  Challenges.cpp
-Challenges.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl parseInts(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?parseInts@@YA?AV?$vector@HV?$allocator@H@std@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z) already defined in StringStreamer.obj
-C:\Users\matas\Documents\GitHub\HackerRank\Challenges\x64\Debug\Challenges.exe : fatal error LNK1169: one or more multiply defined symbols found
